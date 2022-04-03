@@ -6,3 +6,4 @@ Move right paddle with the arrow keys.
 
 Compile with: 
 g++ main.cpp pong.cpp -lsfml-graphics -lsfml-window -lsfml-system
+
