@@ -1,5 +1,5 @@
 #pragma once
-#include<SFML/Graphics.hpp>
+#include "SFML/Graphics.hpp"
 
 extern const int width;
 extern const int height;
