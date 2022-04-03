@@ -1,4 +1,4 @@
-#include<SFML/Graphics.hpp>
+#include "SFML/Graphics.hpp"
 #include "pong.hpp"
 
 const int width = 800;
