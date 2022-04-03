@@ -1,8 +1,8 @@
 # Pong
 A quick game I made, the classic pong.
 
-move paddle on left with "W" and "S" keys
-move paddle on right with "arrow up" and "arrow down" keys
+Move left paddle with W and S keys,
+Move right paddle with the arrow keys.
 
 Compile with: 
 g++ main.cpp pong.cpp -lsfml-graphics -lsfml-window -lsfml-system
