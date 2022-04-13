@@ -6,6 +6,7 @@ Move right paddle with the arrow keys.
 
 run:
 sudo apt install libsfml-graphics2.5
+
 Compile with: 
 g++ main.cpp pong.cpp -lsfml-graphics -lsfml-window -lsfml-system -l. -Llib
 
